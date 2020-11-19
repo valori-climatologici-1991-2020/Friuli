@@ -10,4 +10,8 @@ I dati disponibili su HisCentral coprono il periodo 1912-2012. Questi dati coinc
 
 ## Dati online
 
-[Meteo FVG](https://www.meteo.fvg.it/archivio.php?ln=&p=dati)
+Si tratta dei dati scaricabili da [Meteo FVG](https://www.meteo.fvg.it/archivio.php?ln=&p=dati) per il periodo 1991 a oggi. 
+
+## Dati flusso SCIA
+
+Sono un sottoinsieme dei dati elencati nella sezione **Dati online** e neanche coincidono del tutto. Le serie disponibili online sono piu' lunghe di quelle fornite tramite flusso SCIA. **19 novembre 2020: fare un controllo sistematico**
