@@ -34,12 +34,12 @@
 | ZON | Monte Zoncolan              | syn | 46.502355 | 12.926251 | 1750 |
 | MGG | Muggia                      | syn | 45.610495 | 13.752682 | 2    |
 | MUS | Musi                        | syn | 46.312663 | 13.274682 | 600  |
-| PDA | Pala d'Altei                | syn | 46.157287 | 12.597723 | 1528 |
-| PAL | Palazzolo dello Stella      | syn | 45.805702 | 13.052598 | 5    |
-| PIA | Piancavallo                 | syn | 46.114922 | 12.524386 | 1275 |
-| PNT | Pontebba                    | syn | 46.509586 | 13.302481 | 590  |
-| POR | Pordenone                   | syn | 45.953618 | 12.681257 | 23   |
-| PRD | Pradamano                   | syn | 46.044247 | 13.303041 | 91   |
+| PDA | Pala d'Altei                | syn | 46.157287 | 12.597723 | 1528 | x | 2004 | 2019 |
+| PAL | Palazzolo dello Stella      | syn | 45.805702 | 13.052598 | 5    | x | 1991 | 2019 |
+| PIA | Piancavallo                 | syn | 46.114922 | 12.524386 | 1275 | x | 2004 | 2019 |
+| PNT | Pontebba                    | syn | 46.509586 | 13.302481 | 590  | x | 2006 | 2017 |
+| POR | Pordenone                   | syn | 45.953618 | 12.681257 | 23   | x | 1994 | 2019 |
+| PRD | Pradamano                   | syn | 46.044247 | 13.303041 | 91   | x | 2008 | 2019 |
 | RIV | Rivis                       | syn | 46.010800 | 12.945800 | 69   | x | 2014 | 2019 |
 | SPN | San Pietro al Natisone      | syn | 46.114260 | 13.486796 | 160  |
 | SAN | San Vito al Tgl.            | syn | 45.895661 | 12.814989 | 21   |
