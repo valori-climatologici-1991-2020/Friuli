@@ -45,9 +45,9 @@
 | SAN | San Vito al Tgl.            | syn | 45.895661 | 12.814989 | 21   |
 | SAP | Sappada (ARPAV)             | syn | 46.5700   | 12.7083   | 1265 |
 | SGO | Sgonico-Zgonik              | syn | 45.738004 | 13.742056 | 268  |
-| TAL | Talmassons                  | syn | 45.882311 | 13.155779 | 16   |
+| TAL | Talmassons                  | syn | 45.882311 | 13.155779 | 16   | x | 1991 | 2019 |
 | TAR | Tarvisio                    | syn | 46.510775 | 13.551886 | 794  |
-| TRZ | Terzo d'Aquileia            | syn | 45.768700 | 13.312700 | 0    | | | |
+| TRZ | Terzo d'Aquileia            | syn | 45.768700 | 13.312700 | 0    | x | 2016 | 2020 |
 | TOL | Tolmezzo                    | syn | 46.399425 | 13.005854 | 314  |
 | TRS | Trieste Ist. Nautico        | syn | 45.647393 | 13.764540 | 30   |
 | TRI | Trieste molo F.lli Bandiera | syn | 45.649996 | 13.752242 | 1    |
