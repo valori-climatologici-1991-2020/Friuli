@@ -1,13 +1,13 @@
-|Codice| Nome | |Lat| Lon| Quota?| Scaricata| AnnoInizio | AnnoFine |
-|-----|-----------------------------|-----|-----------|-----------|------|-- | -- |--| --|
-| ARI | Ariis                       | syn | 45.878300 | 13.090000 | 13   | x | 2014 | 2019|
-| BAR | Barcis                      | syn | 46.193202 | 12.571028 | 468  | x | 2004 |2019 |
+|Codice| Nome                       |     | Lat       | Lon       | Quota| Scaricata| AnnoInizio | AnnoFine |
+|-----|-----------------------------|-----|-----------|-----------|------|----------| -----------|----------|
+| ARI | Ariis                       | syn | 45.878300 | 13.090000 | 13   | x        | 2014       | 2019     |
+| BAR | Barcis                      | syn | 46.193202 | 12.571028 | 468  | x        | 2004       | 2019     |
 | BIC | Bicinicco                   | syn | 45.928808 | 13.240140 | 33   | 
 | BOA | Boa Paloma                  | syn | 45.618291 | 13.565022 | 5    | 
 | BOR | Bordano                     | syn | 46.332764 | 13.081196 | 230  |
 | BGG | Borgo Grotta Gigante        | syn | 45.709385 | 13.764681 | 275  |
 | BRU | Brugnera                    | syn | 45.917972 | 12.545003 | 22   |
-| CMT | Camino                      | syn | 45.920300 | 12.938600 | 30   | x | 2014 | 2019 |
+| CMT | Camino                      | syn | 45.920300 | 12.938600 | 30   | x         | 2014       | 2019 |
 | CAP | Capriva del Friuli          | syn | 45.958094 | 13.512333 | 85   |
 | CDP | Cave del Predil             | syn | 46.437067 | 13.567703 | 914  |
 | CRV | Cervignano - Scodovacca     | syn | 45.822500 | 13.368300 | 6    |
@@ -47,7 +47,7 @@
 | SGO | Sgonico-Zgonik              | syn | 45.738004 | 13.742056 | 268  |
 | TAL | Talmassons                  | syn | 45.882311 | 13.155779 | 16   |
 | TAR | Tarvisio                    | syn | 46.510775 | 13.551886 | 794  |
-| TRZ | Terzo d'Aquileia            | syn | 45.768700 | 13.312700 | 0    |
+| TRZ | Terzo d'Aquileia            | syn | 45.768700 | 13.312700 | 0    | | | |
 | TOL | Tolmezzo                    | syn | 46.399425 | 13.005854 | 314  |
 | TRS | Trieste Ist. Nautico        | syn | 45.647393 | 13.764540 | 30   |
 | TRI | Trieste molo F.lli Bandiera | syn | 45.649996 | 13.752242 | 1    |
