@@ -40,7 +40,7 @@
 | PNT | Pontebba                    | syn | 46.509586 | 13.302481 | 590  |
 | POR | Pordenone                   | syn | 45.953618 | 12.681257 | 23   |
 | PRD | Pradamano                   | syn | 46.044247 | 13.303041 | 91   |
-| RIV | Rivis                       | syn | 46.010800 | 12.945800 | 69   |
+| RIV | Rivis                       | syn | 46.010800 | 12.945800 | 69   | x | 2014 | 2019 |
 | SPN | San Pietro al Natisone      | syn | 46.114260 | 13.486796 | 160  |
 | SAN | San Vito al Tgl.            | syn | 45.895661 | 12.814989 | 21   |
 | SAP | Sappada (ARPAV)             | syn | 46.5700   | 12.7083   | 1265 |
@@ -51,5 +51,5 @@
 | TOL | Tolmezzo                    | syn | 46.399425 | 13.005854 | 314  |
 | TRS | Trieste Ist. Nautico        | syn | 45.647393 | 13.764540 | 30   |
 | TRI | Trieste molo F.lli Bandiera | syn | 45.649996 | 13.752242 | 1    |
-| UDI | Udine S.O.                  | syn | 46.035212 | 13.226672 | 91   |
-| VIV | Vivaro                      | syn | 46.076529 | 12.768814 | 142  |
+| UDI | Udine S.O.                  | syn | 46.035212 | 13.226672 | 91   | x | 1991 | 2019 |
+| VIV | Vivaro                      | syn | 46.076529 | 12.768814 | 142  | x | 1991 | 2019 |
