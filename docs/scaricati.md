@@ -46,10 +46,10 @@
 | SAP | Sappada (ARPAV)             | syn | 46.5700   | 12.7083   | 1265 |
 | SGO | Sgonico-Zgonik              | syn | 45.738004 | 13.742056 | 268  |
 | TAL | Talmassons                  | syn | 45.882311 | 13.155779 | 16   | x | 1991 | 2019 |
-| TAR | Tarvisio                    | syn | 46.510775 | 13.551886 | 794  |
+| TAR | Tarvisio                    | syn | 46.510775 | 13.551886 | 794  | x | 1999 | 2019 |
 | TRZ | Terzo d'Aquileia            | syn | 45.768700 | 13.312700 | 0    | x | 2016 | 2020 |
-| TOL | Tolmezzo                    | syn | 46.399425 | 13.005854 | 314  |
-| TRS | Trieste Ist. Nautico        | syn | 45.647393 | 13.764540 | 30   |
-| TRI | Trieste molo F.lli Bandiera | syn | 45.649996 | 13.752242 | 1    |
+| TOL | Tolmezzo                    | syn | 46.399425 | 13.005854 | 314  | x | 2005 | 2019 |
+| TRS | Trieste Ist. Nautico        | syn | 45.647393 | 13.764540 | 30   | x | 2007 | 2019 |
+| TRI | Trieste molo F.lli Bandiera | syn | 45.649996 | 13.752242 | 1    | x | 1994 | 2019 |
 | UDI | Udine S.O.                  | syn | 46.035212 | 13.226672 | 91   | x | 1991 | 2019 |
 | VIV | Vivaro                      | syn | 46.076529 | 12.768814 | 142  | x | 1991 | 2019 |
