@@ -61,26 +61,29 @@ table(vettoreLettere)->frequenzaLettere
 LETTERA_STAZIONE_OLD<-NULL
 MAX_NUMERO_CICLI<-0
 CICLO<-0
-DATI_MANCANTI<-0
+#DATI_MANCANTI<-0
 
 purrr::walk(listaStazioni$stazione,.f=function(staz){ 
   
+  STAZIONE_GIA_ELABORATA<-FALSE
+  
+  #ogni volta che cambio stazione devo fare un refresh per ripartire dall'anno 2020 e non ripartire dall'ultimo anno elaborato
+  #per la stazione precedente
+  myclient$refresh()
+  Sys.sleep(2)
+  
   str_sub(staz,1,1)->LETTERA_STAZIONE 
   
-  # if(is.null(LETTERA_STAZIONE_OLD))  LETTERA_STAZIONE->LETTERA_STAZIONE_OLD
+  #se in un anno non ho dati comincio a incrementare DATI_MANCANTI. Se per tre anni di seguito la stazione non ha dati
+  #smetto di fare cicli inutili e passo alla stazione successiva. Qui l'implementazione si basa sul fatto che gli anni
+  #vengono scaricati a ritroso: dal 2019 indietro. Quindi se da un anno X andando indietro non trovo piu' dati significa che
+  #i dati partono dall'anno X+1 fino ad arrivare a oggi.  
+  DATI_MANCANTI<<-0
   
   if((LETTERA_STAZIONE_OLD!=LETTERA_STAZIONE) ||(is.null(LETTERA_STAZIONE_OLD))){ 
     LETTERA_STAZIONE_OLD<<-LETTERA_STAZIONE
     MAX_NUMERO_CICLI<<-as.integer(frequenzaLettere[LETTERA_STAZIONE])
     CICLO<<-0
-    #se in un anno non ho dati comincio a incrementare DATI_MANCANTI. Se per tre anni di seguito la stazione non ha dati
-    #smetto di fare cicli inutili e passo alla stazione successiva. Qui l'implementazione si basa sul fatto che gli anni
-    #vengono scaricati a ritroso: dal 2019 indietro. Quindi se da un anno X andando indietro non trovo piu' dati significa che
-    #i dati partono dall'anno X+1 fino ad arrivare a oggi.  
-    DATI_MANCANTI<<-0
-    #ogni volta che cambio stazione devo fare un refresh per ripartire dall'anno 2020 e non ripartire dall'ultimo anno elaborato
-    #per la stazione precedente  
-    myclient$refresh()
   }
   
   #questo serve per contare il numero di cicli per le lettere dell'alfabeto  
@@ -89,9 +92,12 @@ purrr::walk(listaStazioni$stazione,.f=function(staz){
   #cerca il campo con la tendina dei nomi stazione  
   myclient$findElement(using = "id",value = "stazione")->pulsanteStazione
   
+
   #serve per passare alla prima,,alla seconda..alla terza stazione che inizia con la lettera "B" (ad esempio)  
   for(ii in 1:CICLO){ 
+    print(glue::glue("click {ii}"))
     pulsanteStazione$findElement(using = "xpath","//*/option[@value='ARI@Ariis@syn@45.878300@13.090000@13']")$sendKeysToElement(list(LETTERA_STAZIONE,key = "enter"))    
+    Sys.sleep(3)
   }
 
   myclient$findElement(using = "id",value = "giornalieri")->pulsanteGiornalieri
@@ -99,6 +105,8 @@ purrr::walk(listaStazioni$stazione,.f=function(staz){
   Sys.sleep(3)
   
   purrr::walk(1:29,.f=function(yy){ 
+    
+  if(STAZIONE_GIA_ELABORATA) {print("gia elaborata"); return()  }
     
   #se per tre anni non ho dati mi fermo. Ad esempio: parto dal 2019..scarico dati a ritroso fino al 2015. Poi dal 2014 per tre anni 
   #(2014, 2013,2012) non ho dati: mi fermo. La serie parte dal 2015 inutile fare cicli a vuoto    
@@ -171,8 +179,13 @@ purrr::walk(listaStazioni$stazione,.f=function(staz){
       rvest::html_table(myhtml)->tabella
       
       tabella[[1]]->mydf
-      ``
+
       if(nrow(mydf)){ 
+        
+        if(file.exists(glue::glue("{nomeStazione}_{anno}.csv"))){
+          STAZIONE_GIA_ELABORATA<<-TRUE
+          return()
+        }
         
         mydf$yy<-as.integer(listaOut[["anno"]])
         #listaOut[["mese"]]->mese
