@@ -1,13 +1,13 @@
-|Codice| Nome | |Lat| Lon| Quota?| Scaricata| AnnoInizio | |AnnoFine |
+|Codice| Nome | |Lat| Lon| Quota?| Scaricata| AnnoInizio | AnnoFine |
 |-----|-----------------------------|-----|-----------|-----------|------|-- | -- |--| --|
 | ARI | Ariis                       | syn | 45.878300 | 13.090000 | 13   | x | 2014 | 2019|
-| BAR | Barcis                      | syn | 46.193202 | 12.571028 | 468  |
-| BIC | Bicinicco                   | syn | 45.928808 | 13.240140 | 33   |
-| BOA | Boa Paloma                  | syn | 45.618291 | 13.565022 | 5    |
+| BAR | Barcis                      | syn | 46.193202 | 12.571028 | 468  | x | 2004 |2019 |
+| BIC | Bicinicco                   | syn | 45.928808 | 13.240140 | 33   | 
+| BOA | Boa Paloma                  | syn | 45.618291 | 13.565022 | 5    | 
 | BOR | Bordano                     | syn | 46.332764 | 13.081196 | 230  |
 | BGG | Borgo Grotta Gigante        | syn | 45.709385 | 13.764681 | 275  |
 | BRU | Brugnera                    | syn | 45.917972 | 12.545003 | 22   |
-| CMT | Camino                      | syn | 45.920300 | 12.938600 | 30   |
+| CMT | Camino                      | syn | 45.920300 | 12.938600 | 30   | x | 2014 | 2019 |
 | CAP | Capriva del Friuli          | syn | 45.958094 | 13.512333 | 85   |
 | CDP | Cave del Predil             | syn | 46.437067 | 13.567703 | 914  |
 | CRV | Cervignano - Scodovacca     | syn | 45.822500 | 13.368300 | 6    |
@@ -15,19 +15,19 @@
 | CHI | Chievolis                   | syn | 46.254523 | 12.734044 | 345  |
 | CIV | Cividale del Friuli         | syn | 46.080442 | 13.420014 | 127  |
 | COD | Codroipo                    | syn | 45.952356 | 13.002742 | 37   |
-| ENE | Enemonzo                    | syn | 46.410416 | 12.862536 | 438  |
-| FAE | Faedis                      | syn | 46.134532 | 13.352326 | 158  |
+| ENE | Enemonzo                    | syn | 46.410416 | 12.862536 | 438  | x | 1994 | 2019 |
+| FAE | Faedis                      | syn | 46.134532 | 13.352326 | 158  | x | 1991 | 2019 |
 | FAG | Fagagna                     | syn | 46.101692 | 13.073886 | 148  |
-| FSP | Forni di Sopra              | syn | 46.409798 | 12.593680 | 922  |
+| FSP | Forni di Sopra              | syn | 46.409798 | 12.593680 | 922  | x | 2004 | 2020 |
 | FOS | Fossalon                    | syn | 45.714768 | 13.458865 | 0    |
-| GEM | Gemona del Friuli           | syn | 46.261297 | 13.122088 | 184  |
+| GEM | Gemona del Friuli           | syn | 46.261297 | 13.122088 | 184  | x | 1999 | 2019 |
 | GRG | Gorgo                       | syn | 45.736227 | 13.021904 | 5    |
 | GRA | Gradisca d'Is.              | syn | 45.889791 | 13.481807 | 29   |
 | GRD | Grado                       | syn | 45.676400 | 13.394500 | 5    |
 | GRM | Grado-mare                  | syn | 45.671362 | 13.396556 | 0    |
-| LAU | Lauzacco                    | syn | 45.982046 | 13.272538 | 60   |
+| LAU | Lauzacco                    | syn | 45.982046 | 13.272538 | 60   | x | 2008 | 2019 |
 | LIG | Lignano Sabbiadoro          | syn | 45.701909 | 13.147078 | 7    |
-| MNF | Monfalcone                  | syn | 45.780471 | 13.536554 | 0    |
+| MNF | Monfalcone                  | syn | 45.780471 | 13.536554 | 0    | x | 2006 | 2019 |
 | LUS | Monte Lussari               | syn | 46.482473 | 13.520457 | 1760 |
 | LSR | Monte Lussari sm            | syn | 46.482536 | 13.520058 | 1743 |
 | MAT | Monte Matajur               | syn | 46.211683 | 13.529107 | 1630 |
