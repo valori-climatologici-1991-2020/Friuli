@@ -28,9 +28,9 @@
 | LAU | Lauzacco                    | syn | 45.982046 | 13.272538 | 60   | x        | 2008       | 2019     |
 | LIG | Lignano Sabbiadoro          | syn | 45.701909 | 13.147078 | 7    | x        | 1999       | 2019     |
 | MNF | Monfalcone                  | syn | 45.780471 | 13.536554 | 0    | x        | 2006       | 2019     |
-| LUS | Monte Lussari               | syn | 46.482473 | 13.520457 | 1760 |
-| LSR | Monte Lussari sm            | syn | 46.482536 | 13.520058 | 1743 |
-| MAT | Monte Matajur               | syn | 46.211683 | 13.529107 | 1630 |
+| LUS | Monte Lussari               | syn | 46.482473 | 13.520457 | 1760 | x        | 1993       | 2018     |
+| LSR | Monte Lussari sm            | syn | 46.482536 | 13.520058 | 1743 | x        | 2017       | 2019     |
+| MAT | Monte Matajur               | syn | 46.211683 | 13.529107 | 1630 | x        | 2000       | 2019     |
 | ZON | Monte Zoncolan              | syn | 46.502355 | 12.926251 | 1750 |
 | MGG | Muggia                      | syn | 45.610495 | 13.752682 | 2    |
 | MUS | Musi                        | syn | 46.312663 | 13.274682 | 600  |
