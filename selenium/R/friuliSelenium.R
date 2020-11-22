@@ -48,7 +48,7 @@ library("rvest")
 
 urlFriuli<-"https://www.meteo.fvg.it/archivio.php?ln=&p=dati"
 
-RSelenium::rsDriver(browser="firefox",check = FALSE)->mydrv
+RSelenium::rsDriver(browser="firefox",check = FALSE,port=4569L)->mydrv
 mydrv$client->myclient
 myclient$navigate(urlFriuli)
 
@@ -156,9 +156,11 @@ purrr::walk(listaStazioni$stazione,.f=function(staz){
       myclient$getPageSource()[[1]] %>%
         read_html()->myhtml
       
+      Sys.sleep(2)
       html_text(html_node(myhtml,xpath = "//*/h4"))->nomeStazione
+      Sys.sleep(2)
       str_remove(nomeStazione,"Stazione: ")->nomeStazione
-      
+      Sys.sleep(2)
       html_text(html_nodes(myhtml,xpath = "//*/h5"))->nodih5
 
     #se non ho un tempo di attesa Sys.sleep(2) a volte myclient$getPageSource() non ha il tempo di acquisire la pagina sorgente
@@ -174,13 +176,15 @@ purrr::walk(listaStazioni$stazione,.f=function(staz){
         NULL
       })->listaOut
       
-      if(is.null(listaOut)) browser()
+      if(is.null(listaOut)) return()
       
       rvest::html_table(myhtml)->tabella
       
       tabella[[1]]->mydf
 
       if(nrow(mydf)){ 
+
+	DATI_MANCANTI<<-0
         
         if(file.exists(glue::glue("{nomeStazione}_{anno}.csv"))){
           STAZIONE_GIA_ELABORATA<<-TRUE
