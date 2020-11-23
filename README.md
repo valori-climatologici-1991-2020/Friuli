@@ -11,7 +11,7 @@ I dati disponibili su HisCentral coprono il periodo 1912-2012. Questi dati coinc
 ## Dati online
 
 Si tratta dei dati scaricabili da [Meteo FVG](https://www.meteo.fvg.it/archivio.php?ln=&p=dati) per il periodo 1991 a oggi. 
-[Lista dei dati elaborati](./docs/scaricati.md)
+[Qui la lista dei dati elaborati](./docs/scaricati.md) e [qui la mappa delle stazioni](https://github.com/valori-climatologici-1991-2020/Friuli/blob/main/selenium/mappa_stazioni/friuli_ana.geojson).
 
 ## Dati flusso SCIA
 
