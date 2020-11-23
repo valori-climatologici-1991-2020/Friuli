@@ -31,9 +31,9 @@
 | LUS | Monte Lussari               | syn | 46.482473 | 13.520457 | 1760 | x        | 1993       | 2018     |
 | LSR | Monte Lussari sm            | syn | 46.482536 | 13.520058 | 1743 | x        | 2017       | 2019     |
 | MAT | Monte Matajur               | syn | 46.211683 | 13.529107 | 1630 | x        | 2000       | 2019     |
-| ZON | Monte Zoncolan              | syn | 46.502355 | 12.926251 | 1750 |
-| MGG | Muggia                      | syn | 45.610495 | 13.752682 | 2    |
-| MUS | Musi                        | syn | 46.312663 | 13.274682 | 600  |
+| ZON | Monte Zoncolan              | syn | 46.502355 | 12.926251 | 1750 | x        | 1992       | 2019     |
+| MGG | Muggia                      | syn | 45.610495 | 13.752682 | 2    | x        | 2006       | 2019     |
+| MUS | Musi                        | syn | 46.312663 | 13.274682 | 600  | x        | 2001       | 2019     |
 | PDA | Pala d'Altei                | syn | 46.157287 | 12.597723 | 1528 | x | 2004 | 2019 |
 | PAL | Palazzolo dello Stella      | syn | 45.805702 | 13.052598 | 5    | x | 1991 | 2019 |
 | PIA | Piancavallo                 | syn | 46.114922 | 12.524386 | 1275 | x | 2004 | 2019 |
@@ -41,10 +41,10 @@
 | POR | Pordenone                   | syn | 45.953618 | 12.681257 | 23   | x | 1994 | 2019 |
 | PRD | Pradamano                   | syn | 46.044247 | 13.303041 | 91   | x | 2008 | 2019 |
 | RIV | Rivis                       | syn | 46.010800 | 12.945800 | 69   | x | 2014 | 2019 |
-| SPN | San Pietro al Natisone      | syn | 46.114260 | 13.486796 | 160  |
-| SAN | San Vito al Tgl.            | syn | 45.895661 | 12.814989 | 21   |
-| SAP | Sappada (ARPAV)             | syn | 46.5700   | 12.7083   | 1265 |
-| SGO | Sgonico-Zgonik              | syn | 45.738004 | 13.742056 | 268  |
+| SPN | San Pietro al Natisone      | syn | 46.114260 | 13.486796 | 160  | x        | 2008       | 2019     |
+| SAN | San Vito al Tgl.            | syn | 45.895661 | 12.814989 | 21   | x        | 1991       | 2019     |
+| SAP | Sappada (ARPAV)             | syn | 46.5700   | 12.7083   | 1265 | x        | 2008       | 2019     |  
+| SGO | Sgonico-Zgonik              | syn | 45.738004 | 13.742056 | 268  | x        | 1992       | 2019     |
 | TAL | Talmassons                  | syn | 45.882311 | 13.155779 | 16   | x | 1991 | 2019 |
 | TAR | Tarvisio                    | syn | 46.510775 | 13.551886 | 794  | x | 1999 | 2019 |
 | TRZ | Terzo d'Aquileia            | syn | 45.768700 | 13.312700 | 0    | x | 2016 | 2020 |
