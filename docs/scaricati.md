@@ -1,3 +1,9 @@
+Qui di seguito le stazioni di cui sono stati acquisiti i dati. 
+L'elenco delle stazioni e delle coordinate e' stato acquisito dal campo "select" del codice html del sito del FVG.
+
+Nota: i file contengono ogni tanto date duplicate e quindi vanno ripuliti.
+
+
 |Codice| Nome                       |     | Lat       | Lon       | Quota| Scaricata| AnnoInizio | AnnoFine |
 |-----|-----------------------------|-----|-----------|-----------|------|----------| -----------|----------|
 | ARI | Ariis                       | syn | 45.878300 | 13.090000 | 13   | x        | 2014       | 2019     |
