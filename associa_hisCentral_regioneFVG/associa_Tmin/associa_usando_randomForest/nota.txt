@@ -1,0 +1,4 @@
+associaAna.R qui viene fatto girare con parametri meno stringenti per associare le anagrafiche:
+- 20 km di distanza trale stazioni
+- 50 metri in quota
+- 50 costo massimo della distanza di Levenstein

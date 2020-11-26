@@ -1,0 +1,3 @@
+I dati Tmax_friuli.csv e Tmin_friuli.csv sono i dati storici di HisCentrali.
+
+I dati che partono dal 1991 a oggi sono i dati della regione FVG riassemblati in Tmax e Tmin.

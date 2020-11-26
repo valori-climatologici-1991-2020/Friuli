@@ -1,0 +1,2 @@
+#26 novembre 2020
+Questi dati sono il risultati dei programmi di associazione delle serie storiche con quelle del sito regione FVG. I codici dele colonne riprendono i codici delle nuove serie. Per vedere le associazioni tra serie storiche e serie nuove guardare i file dfDistanze_2.csv nella cartella grafici_associazione_serie per Tmax e Tmin.
