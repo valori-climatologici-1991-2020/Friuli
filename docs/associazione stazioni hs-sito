@@ -1,9 +1,9 @@
-Nella seguente tabella sono messe a confronto per il Friuli le stazioni, che misurano Tmax e Tmin, le cui serie di dati sono presenti su HC
-e quelle invece disponibili attualmente sul sito web
+Nella seguente tabella sono messe a confronto le stazioni (che misurano Tmax e Tmin) con serie di dati sono presenti su HisCentral
+e quelle disponibili attualmente sul sito web
 
                 hc              |         cf         |    distanza   |    quotaCF   |    quotaHC   |    quotaGap   | associare
 --------------------------------|--------------------|---------------|--------------|--------------|---------------|----------
-Barcis ponte antoi | Barcis | 641.4058612 | 468 | 470.3970337 | 2.397033691 | 1
+     Barcis ponte antoi         | Barcis             | 641.4058612   |   468        | 470.3970337  |  2.397033691  | 1
 Barcis stazione forestale | Barcis | 566.9700032 | 468 | 448.1826782 | 19.81732178 | 0
 Andreis piazzola campeggio | Barcis | 3227.150109 | 468 | 462.1297913 | 5.87020874 | 0
 Alesso | Bordano | 3280.852822 | 230 | 254.414566 | 24.41456604 | 1
