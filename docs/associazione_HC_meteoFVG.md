@@ -1,4 +1,13 @@
-| SiteID | SiteName                   | SiteCode | FullSiteCode | Elevation_dem      | Longitude          | Latitude           | cf                          | distanza    | quotaCF | quotaHC     | quotaGap    | associare | codice | lat       | lon       | quota |
+Serie associate HisCentral (HC) e serie del Friuli Venezia Giulia (CF). Qui CF indica Centro Funzionale ma in realta' si tratta delle serie acquisite dal sito della Regione del Friuli Venezia Giulia.
+
+Le serie sono state associate tenendo conto:
+- della distanza (sono state associate stazioni che al piu' distano 5 kilometri)
+- quota (si ammette al massimo una differenza di quota di 25 metri)
+- i nomi delle stazioni (si e' considerata la distanza di Levenstein,distanza massimo di 30 (o 20?? rivedere codice))
+
+Un modo alternativo di procede potrebbe essere quello di utilizzare un modello Random Forests usando le serie HisCentral come predittori e le serie dell'FVG come valori target.
+
+| SiteID | SiteName                   | SiteCode | FullSiteCode | Elevation_dem      | Longitude_hc          | Latitude_hc           | cf                          | distanza    | quotaCF | quotaHC     | quotaGap    | associare | codice_cf | lat_cf       | lon_cf       | quota_cf |
 |--------|----------------------------|----------|--------------|--------------------|--------------------|--------------------|-----------------------------|-------------|---------|-------------|-------------|-----------|--------|-----------|-----------|-------|
 | 23     | Ponte racli                | A240     | OD:A240      | 358.5740661621094  | 12.7499            | 46.241199999999985 | Chievolis                   | 1921.69391  | 345     | 358.5740662 | 13.57406616 | 1         | CHI    | 46.254523 | 12.734044 | 345   |
 | 36     | Pordenone localita' torre  | A301     | OD:A301      | 29.147491455078125 | 12.672699999999999 | 45.9682            | Pordenone                   | 1752.326218 | 23      | 29.14749146 | 6.147491455 | 1         | POR    | 45.953618 | 12.681257 | 23    |
