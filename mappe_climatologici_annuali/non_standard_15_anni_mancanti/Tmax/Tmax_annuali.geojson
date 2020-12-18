@@ -1,0 +1,566 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 12,
+        "climatologico": 19.6282,
+        "SiteCode": "CER",
+        "SiteName": "Cervignano del friuli",
+        "Elevation": 8,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.337, 45.8495]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 13,
+        "climatologico": 17.1913,
+        "SiteCode": "CHI",
+        "SiteName": "Chievolis",
+        "Elevation": 345,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.734, 46.2545]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 14,
+        "climatologico": 18.8018,
+        "SiteCode": "CIV",
+        "SiteName": "Cividale del friuli",
+        "Elevation": 127,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.42, 46.0804]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 15,
+        "climatologico": 19.4874,
+        "SiteCode": "COD",
+        "SiteName": "Codroipo",
+        "Elevation": 37,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.0027, 45.9524]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 16,
+        "climatologico": 16.7011,
+        "SiteCode": "ENE",
+        "SiteName": "Enemonzo",
+        "Elevation": 438,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.8625, 46.4104]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 17,
+        "climatologico": 18.6127,
+        "SiteCode": "FAE",
+        "SiteName": "Faedis",
+        "Elevation": 158,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3523, 46.1345]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 18,
+        "climatologico": 18.278,
+        "SiteCode": "FAG",
+        "SiteName": "Fagagna",
+        "Elevation": 148,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.0739, 46.1017]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 19,
+        "climatologico": 14.6509,
+        "SiteCode": "FSP",
+        "SiteName": "Forni di sopra",
+        "Elevation": 922,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5937, 46.4098]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 2,
+        "climatologico": 16.2605,
+        "SiteCode": "BAR",
+        "SiteName": "Barcis",
+        "Elevation": 468,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.571, 46.1932]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 20,
+        "climatologico": 18.8016,
+        "SiteCode": "FOS",
+        "SiteName": "Fossalon",
+        "Elevation": 0,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4589, 45.7148]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 21,
+        "climatologico": 18.6646,
+        "SiteCode": "GEM",
+        "SiteName": "Gemona del friuli",
+        "Elevation": 184,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.1221, 46.2613]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 23,
+        "climatologico": 19.3708,
+        "SiteCode": "GRA",
+        "SiteName": "Gradisca d'is.",
+        "Elevation": 29,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4818, 45.8898]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 24,
+        "climatologico": 18.5025,
+        "SiteCode": "GRD",
+        "SiteName": "Grado",
+        "Elevation": 5,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3945, 45.6764]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 27,
+        "climatologico": 18.4063,
+        "SiteCode": "LIG",
+        "SiteName": "Lignano sabbiadoro",
+        "Elevation": 7,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.1471, 45.7019]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 29,
+        "climatologico": 6.5545,
+        "SiteCode": "LUS",
+        "SiteName": "Monte lussari",
+        "Elevation": 1760,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.5205, 46.4825]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 31,
+        "climatologico": 7.6713,
+        "SiteCode": "MAT",
+        "SiteName": "Monte matajur",
+        "Elevation": 1630,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.5291, 46.2117]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 32,
+        "climatologico": 7.7611,
+        "SiteCode": "ZON",
+        "SiteName": "Monte zoncolan",
+        "Elevation": 1750,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.9263, 46.5024]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 34,
+        "climatologico": 16.1199,
+        "SiteCode": "MUS",
+        "SiteName": "Musi",
+        "Elevation": 600,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.2747, 46.3127]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 35,
+        "climatologico": 9.0937,
+        "SiteCode": "PDA",
+        "SiteName": "Pala d'altei",
+        "Elevation": 1528,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5977, 46.1573]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 36,
+        "climatologico": 19.1375,
+        "SiteCode": "PAL",
+        "SiteName": "Palazzolo dello stella",
+        "Elevation": 5,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.0526, 45.8057]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 37,
+        "climatologico": 10.7362,
+        "SiteCode": "PIA",
+        "SiteName": "Piancavallo",
+        "Elevation": 1275,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5244, 46.1149]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 39,
+        "climatologico": 18.8916,
+        "SiteCode": "POR",
+        "SiteName": "Pordenone",
+        "Elevation": 23,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.6813, 45.9536]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 43,
+        "climatologico": 18.9988,
+        "SiteCode": "SAN",
+        "SiteName": "San vito al tgl.",
+        "Elevation": 21,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.815, 45.8957]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 45,
+        "climatologico": 17.9708,
+        "SiteCode": "SGO",
+        "SiteName": "Sgonico-zgonik",
+        "Elevation": 268,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.7421, 45.738]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 46,
+        "climatologico": 19.3027,
+        "SiteCode": "TAL",
+        "SiteName": "Talmassons",
+        "Elevation": 16,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.1558, 45.8823]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 47,
+        "climatologico": 13.8754,
+        "SiteCode": "TAR",
+        "SiteName": "Tarvisio",
+        "Elevation": 794,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.5519, 46.5108]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 49,
+        "climatologico": 17.7148,
+        "SiteCode": "TOL",
+        "SiteName": "Tolmezzo",
+        "Elevation": 314,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.0059, 46.3994]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 5,
+        "climatologico": 18.8375,
+        "SiteCode": "BOR",
+        "SiteName": "Bordano",
+        "Elevation": 230,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.0812, 46.3328]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 51,
+        "climatologico": 18.3661,
+        "SiteCode": "TRI",
+        "SiteName": "Trieste molo f.lli bandiera",
+        "Elevation": 1,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.7522, 45.65]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 52,
+        "climatologico": 18.8302,
+        "SiteCode": "UDI",
+        "SiteName": "Udine s.o.",
+        "Elevation": 91,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.2267, 46.0352]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 53,
+        "climatologico": 18.6742,
+        "SiteCode": "VIV",
+        "SiteName": "Vivaro",
+        "Elevation": 142,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.7688, 46.0765]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 7,
+        "climatologico": 19.141,
+        "SiteCode": "BRU",
+        "SiteName": "Brugnera",
+        "Elevation": 22,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.545, 45.918]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "properties": {
+        "yy": 2005,
+        "SiteID": 9,
+        "climatologico": 19.2537,
+        "SiteCode": "CAP",
+        "SiteName": "Capriva del friuli",
+        "Elevation": 85,
+        "Comments": "Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.5123, 45.9581]
+      }
+    }
+  ]
+} 
