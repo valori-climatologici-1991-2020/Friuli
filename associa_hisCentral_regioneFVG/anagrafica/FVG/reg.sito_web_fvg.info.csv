@@ -1,0 +1,54 @@
+SiteID;SiteCode;SiteName;Latitude;Longitude;Elevation;Comments
+1;ARI;Ariis;45.8783;13.09;13;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+2;BAR;Barcis;46.193202;12.571028;468;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+3;BIC;Bicinicco;45.928808;13.24014;33;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+4;BOA;Boa paloma;45.618291;13.565022;5;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+5;BOR;Bordano;46.332764;13.081196;230;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+6;BGG;Borgo grotta gigante;45.709385;13.764681;275;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+7;BRU;Brugnera;45.917972;12.545003;22;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+8;CMT;Camino;45.9203;12.9386;30;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+9;CAP;Capriva del friuli;45.958094;13.512333;85;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+10;CDP;Cave del predil;46.437067;13.567703;914;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+11;CRV;Cervignano - scodovacca;45.8225;13.3683;6;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+12;CER;Cervignano del friuli;45.849486;13.337015;8;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+13;CHI;Chievolis;46.254523;12.734044;345;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+14;CIV;Cividale del friuli;46.080442;13.420014;127;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+15;COD;Codroipo;45.952356;13.002742;37;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+16;ENE;Enemonzo;46.410416;12.862536;438;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+17;FAE;Faedis;46.134532;13.352326;158;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+18;FAG;Fagagna;46.101692;13.073886;148;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+19;FSP;Forni di sopra;46.409798;12.59368;922;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+20;FOS;Fossalon;45.714768;13.458865;0;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+21;GEM;Gemona del friuli;46.261297;13.122088;184;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+22;GRG;Gorgo;45.736227;13.021904;5;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+23;GRA;Gradisca d'is.;45.889791;13.481807;29;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+24;GRD;Grado;45.6764;13.3945;5;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+25;GRM;Grado-mare;45.671362;13.396556;0;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+26;LAU;Lauzacco;45.982046;13.272538;60;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+27;LIG;Lignano sabbiadoro;45.701909;13.147078;7;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+28;MNF;Monfalcone;45.780471;13.536554;0;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+29;LUS;Monte lussari;46.482473;13.520457;1760;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+30;LSR;Monte lussari sm;46.482536;13.520058;1743;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+31;MAT;Monte matajur;46.211683;13.529107;1630;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+32;ZON;Monte zoncolan;46.502355;12.926251;1750;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+33;MGG;Muggia;45.610495;13.752682;2;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+34;MUS;Musi;46.312663;13.274682;600;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+35;PDA;Pala d'altei;46.157287;12.597723;1528;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+36;PAL;Palazzolo dello stella;45.805702;13.052598;5;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+37;PIA;Piancavallo;46.114922;12.524386;1275;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+38;PNT;Pontebba;46.509586;13.302481;590;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+39;POR;Pordenone;45.953618;12.681257;23;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+40;PRD;Pradamano;46.044247;13.303041;91;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+41;RIV;Rivis;46.0108;12.9458;69;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+42;SPN;San pietro al natisone;46.11426;13.486796;160;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+43;SAN;San vito al tgl.;45.895661;12.814989;21;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+44;SAP;Sappada (arpav);46.57;12.7083;1265;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+45;SGO;Sgonico-zgonik;45.738004;13.742056;268;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+46;TAL;Talmassons;45.882311;13.155779;16;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+47;TAR;Tarvisio;46.510775;13.551886;794;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+48;TRZ;Terzo d'aquileia;45.7687;13.3127;0;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+49;TOL;Tolmezzo;46.399425;13.005854;314;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+50;TRS;Trieste ist. nautico;45.647393;13.76454;30;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+51;TRI;Trieste molo f.lli bandiera;45.649996;13.752242;1;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+52;UDI;Udine s.o.;46.035212;13.226672;91;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
+53;VIV;Vivaro;46.076529;12.768814;142;Serie FVG: il SiteID non va associato al SiteID delle serie HisCentral
