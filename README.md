@@ -13,7 +13,28 @@ I dati disponibili su HisCentral coprono il periodo 1912-2012. Questi dati coinc
 Si tratta dei dati scaricabili da [Meteo FVG](https://www.meteo.fvg.it/archivio.php?ln=&p=dati) per il periodo 1991 a oggi. 
 [Qui la lista dei dati elaborati](./docs/scaricati.md) e [qui la mappa delle stazioni](https://github.com/valori-climatologici-1991-2020/Friuli/blob/main/selenium/mappa_stazioni/friuli_ana.geojson).
 
+### Serie associate HisCentral (HC) e serie del Friuli Venezia Giulia (CF).
+
+CF sta per Centro Funzionale ma in realta' si tratta delle serie acquisite dal sito della Regione del Friuli Venezia Giulia.
+
+Le serie sono state associate tenendo conto:
+- della distanza (sono state associate stazioni che al piu' distano 5 kilometri)
+- della quota (si ammette al massimo una differenza di quota di 25 metri)
+- dei nomi delle stazioni (si e' considerata la distanza di Levenstein, distanza massimo di 30 (o 20?? rivedere codice)). Questa distanza puo' aiutare ad associare stazioni con lo stesso nome ma con piccole differenze tipo: S. invece di Santo. Una distanza pari a 30 pu associare anche stazioni con nomi completamente differenti.
+- che le associazioni debbono essere uniche (nel senso che le serie di temperatura e precipitazione HisCentral sono associate alla stessa serie del FVG)
+
 [Qui la tabella con le possibili associazioni](./docs/associazione_HC_meteoFVG.md) tra le stazioni di HisCentral e quelle di Meteo FVG.
+
+Un approccio alternativo di associare (che non tiene conto dei metadati) e' quello di utilizzare un modello Random Forests usando le serie HisCentral come predittori e le serie dell'FVG come valori target. 
+
+Il vantaggio di questo approccio e' che:
+- puo' fornire una conferma (basata sui dati) delle associazioni basate sui metadati
+- non utilizza delle soglie di distanza (quota, altezza) rigidi (che invece ecluderebbe, ad esempio, una possibile associazione valida con una distanza di 5km e 1 metro!)
+
+Lo svantaggio di questo approccio e' che:
+- permette di testare le associazioni tra serie HisCentral e serie dell'FVG laddove i dati si sovrappongono su uno o piu' anni
+- i predittori (ovvero le possibili serie FVG che spiegano la variabile target: la serie HisCentral) debbono essere sufficientemente numerosi 
+
 
 ## Dati flusso SCIA
 
