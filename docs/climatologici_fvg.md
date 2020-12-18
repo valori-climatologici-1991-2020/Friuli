@@ -36,7 +36,7 @@ Per la precipitazione non vale la regola del 4/10: un giorno non valido rende no
 
 Numero di stazioni per cui e' stato possibile calcolare il valore climatologico annuale: 14
 
-### Valori climatologici non standard: 10 anni mancanti
+# Valori climatologici non standard: 10 anni mancanti
 
 #### Tmax
 
@@ -50,7 +50,7 @@ Numero di stazioni per cui e' stato possibile calcolare il valore climatologico 
 
 Numero di stazioni per cui e' stato possibile calcolare il valore climatologico annuale: 19
 
-### Valori climatologici non standard: 15 anni mancanti
+# Valori climatologici non standard: 15 anni mancanti
 
 #### Tmax
 
