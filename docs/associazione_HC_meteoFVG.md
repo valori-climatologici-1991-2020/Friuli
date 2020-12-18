@@ -1,13 +1,3 @@
-Serie associate HisCentral (HC) e serie del Friuli Venezia Giulia (CF). Qui CF indica Centro Funzionale ma in realta' si tratta delle serie acquisite dal sito della Regione del Friuli Venezia Giulia.
-
-Le serie sono state associate tenendo conto:
-- della distanza (sono state associate stazioni che al piu' distano 5 kilometri)
-- quota (si ammette al massimo una differenza di quota di 25 metri)
-- i nomi delle stazioni (si e' considerata la distanza di Levenstein,distanza massimo di 30 (o 20?? rivedere codice))
-- le associazioni sono uniche (nel senso che le serie di temperatura e precipitazione HisCentral sono associate alla stessa serie del FVG)
-
-Un modo alternativo di procede potrebbe essere quello di utilizzare un modello Random Forests usando le serie HisCentral come predittori e le serie dell'FVG come valori target.
-
 | SiteID | SiteName                         | SiteCode | cf                          | quotaCF | quotaHC           | quotaGap          | codice |
 |--------|----------------------------------|----------|-----------------------------|---------|-------------------|-------------------|--------|
 | 8      | Sacile ponte lacchin             | A021     | Brugnera                    | 22      | 22.2775802612305  | 0.277580261230469 | BRU    |
