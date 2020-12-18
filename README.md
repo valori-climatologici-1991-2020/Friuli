@@ -13,6 +13,10 @@ I dati disponibili su HisCentral coprono il periodo 1912-2012. Questi dati coinc
 Si tratta dei dati scaricabili da [Meteo FVG](https://www.meteo.fvg.it/archivio.php?ln=&p=dati) per il periodo 1991 a oggi. 
 [Qui la lista dei dati elaborati](./docs/scaricati.md) e [qui la mappa delle stazioni](https://github.com/valori-climatologici-1991-2020/Friuli/blob/main/selenium/mappa_stazioni/friuli_ana.geojson).
 
+Dal Rapporto dell'ARPA FVG ["Ricognizione delle reti metoclimatiche regionali - Anagrafe stazioni"](http://www.arpa.fvg.it/cms/tema/osmer/ricognizione-reti-meteoclima.html) emerge che le reti principali del FVG sono 2: quella detta “idrometeorologica”, che consta di circa 250 stazioni di misura di grandezze idrometriche e meteorologiche (a tecnologia Cae), e quella detta “meteoclimatica”, che consta di circa 50 stazioni di misura di osservabili meteorologiche (a tecnologia Siap-Micros). La rete "idrometeorologica" dovrebbe essere quella HisCentral, che prosegue le serie storiche, mentre quella "meteoclimatica" (rete più recente) dovrebbe essere quella a cui afferiscono i dati che riceviamo per il flusso SCIA (probabilmente non ci vengono inviati i dati della rete "idrometeorologica" per un problema di proprietà del dato).
+
+
+
 ### Valori climatologici serie FVG
 
 I valori climatologici temporanei sono descritti [qui](./docs/climatologici_fvg.md)
