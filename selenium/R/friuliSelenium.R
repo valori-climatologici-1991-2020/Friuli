@@ -104,7 +104,9 @@ purrr::walk(listaStazioni$stazione,.f=function(staz){
   pulsanteGiornalieri$clickElement()
   Sys.sleep(3)
   
-  purrr::walk(1:29,.f=function(yy){ 
+  #questo serve per fare il ciclo sugli anni: quando e' stato scritto il programma
+  #per scaricare i dati dal 2019 a ritroso, 1:29 (5 gennaio 2021)
+  purrr::walk(1:1,.f=function(yy){ 
     
   if(STAZIONE_GIA_ELABORATA) {print("gia elaborata"); return()  }
     
