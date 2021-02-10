@@ -42,4 +42,4 @@ Lo svantaggio di questo approccio e' che:
 
 ## Dati flusso SCIA
 
-Una sintesi delle serie di temperatura e precipitazione e' disponibile [qui]().
+Una sintesi delle serie di temperatura e precipitazione e' disponibile [qui](https://valori-climatologici-1991-2020.github.io/Friuli/).
