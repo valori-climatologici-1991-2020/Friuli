@@ -42,4 +42,4 @@ Lo svantaggio di questo approccio e' che:
 
 ## Dati flusso SCIA
 
-Sono un sottoinsieme dei dati elencati nella sezione **Dati online** e neanche coincidono del tutto. Le serie disponibili online sono piu' lunghe di quelle fornite tramite flusso SCIA. **19 novembre 2020: fare un controllo sistematico**
+Una sintesi delle serie di temperatura e precipitazione e' disponibile [qui]().
