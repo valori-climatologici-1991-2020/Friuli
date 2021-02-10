@@ -11,11 +11,11 @@ I dati disponibili su HisCentral coprono il periodo 1912-2012. Questi dati coinc
 ## Dati online
 
 Si tratta dei dati scaricabili da [Meteo FVG](https://www.meteo.fvg.it/archivio.php?ln=&p=dati) per il periodo 1991 a oggi. 
-[Qui la lista dei dati elaborati](./docs/scaricati.md) e [qui la mappa delle stazioni](https://github.com/valori-climatologici-1991-2020/Friuli/blob/main/selenium/mappa_stazioni/friuli_ana.geojson).
+[Qui la lista dei dati elaborati](./docs_dati_online/scaricati.md) e [qui la mappa delle stazioni](https://github.com/valori-climatologici-1991-2020/Friuli/blob/main/selenium/mappa_stazioni/friuli_ana.geojson).
 
 ### Valori climatologici serie FVG
 
-I valori climatologici temporanei sono descritti [qui](./docs/climatologici_fvg.md)
+I valori climatologici temporanei sono descritti [qui](./docs_dati_online/climatologici_fvg.md)
 
 ### Serie associate HisCentral (HC) e serie del Friuli Venezia Giulia (CF).
 
@@ -27,7 +27,7 @@ Le serie sono state associate tenendo conto:
 - dei nomi delle stazioni (si e' considerata la distanza di Levenstein, distanza massimo di 30 (o 20?? rivedere codice)). Questa distanza puo' aiutare ad associare stazioni con lo stesso nome ma con piccole differenze tipo: S. invece di Santo. Una distanza pari a 30 pu associare anche stazioni con nomi completamente differenti.
 - che le associazioni debbono essere uniche (nel senso che le serie di temperatura e precipitazione HisCentral sono associate alla stessa serie del FVG)
 
-[Qui la tabella con le possibili associazioni](./docs/associazione_HC_meteoFVG.md) tra le stazioni di HisCentral e quelle di Meteo FVG.
+[Qui la tabella con le possibili associazioni](./docs_dati_online/associazione_HC_meteoFVG.md) tra le stazioni di HisCentral e quelle di Meteo FVG.
 
 Un approccio alternativo di associare (che non tiene conto dei metadati) e' quello di utilizzare un modello Random Forests usando le serie HisCentral come predittori e le serie dell'FVG come valori target. 
 
