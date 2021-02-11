@@ -4,12 +4,12 @@ L'elenco delle stazioni e delle coordinate e' stato acquisito dal campo "select"
 Nota: i file contengono ogni tanto date duplicate e quindi vanno ripuliti.
 
 
-|Codice| Nome                       |     | Lat       | Lon       | Quota| Scaricata| AnnoInizio | AnnoFine |
-|-----|-----------------------------|-----|-----------|-----------|------|----------| -----------|----------|
+|Codice| Nome                       |     | Lat       | Lon       | Quota| Scaricata| AnnoInizio | AnnoFine | Note |
+|-----|-----------------------------|-----|-----------|-----------|------|----------| -----------|----------| -----|
 | ARI | Ariis                       | syn | 45.878300 | 13.090000 | 13   | x        | 2014       | 2019     |
 | BAR | Barcis                      | syn | 46.193202 | 12.571028 | 468  | x        | 2004       | 2019     |
 | BIC | Bicinicco                   | syn | 45.928808 | 13.240140 | 33   | x        | 2008       | 2019     |
-| BOA | Boa Paloma                  | syn | 45.618291 | 13.565022 | 5    | x        | 2002       | 2019     |    
+| BOA | Boa Paloma                  | syn | 45.618291 | 13.565022 | 5    | x        | 2002       | 2019     | Dati 2020 non disponibili, ma non dismessa  |  
 | BOR | Bordano                     | syn | 46.332764 | 13.081196 | 230  | x        | 2004       | 2019     |
 | BGG | Borgo Grotta Gigante        | syn | 45.709385 | 13.764681 | 275  | x        | 2007       | 2019     |   
 | BRU | Brugnera                    | syn | 45.917972 | 12.545003 | 22   | x        | 1991       | 2019     |
@@ -22,14 +22,14 @@ Nota: i file contengono ogni tanto date duplicate e quindi vanno ripuliti.
 | CIV | Cividale del Friuli         | syn | 46.080442 | 13.420014 | 127  | x        | 1999       | 2019     |
 | COD | Codroipo                    | syn | 45.952356 | 13.002742 | 37   | x        | 1999       | 2019     |
 | ENE | Enemonzo                    | syn | 46.410416 | 12.862536 | 438  | x        | 1994       | 2019     |
-| FAE | Faedis                      | syn | 46.134532 | 13.352326 | 158  | x        | 1991       | 2019     |
+| FAE | Faedis                      | syn | 46.134532 | 13.352326 | 158  | x        | 1991       | 2019     | Dismessa |
 | FAG | Fagagna                     | syn | 46.101692 | 13.073886 | 148  | x        | 1991       | 2019     |
 | FSP | Forni di Sopra              | syn | 46.409798 | 12.593680 | 922  | x        | 2004       | 2020     |
 | FOS | Fossalon                    | syn | 45.714768 | 13.458865 | 0    | x        | 1991       | 2019     |
 | GEM | Gemona del Friuli           | syn | 46.261297 | 13.122088 | 184  | x        | 1999       | 2019     |
 | GRG | Gorgo                       | syn | 45.736227 | 13.021904 | 5    | x        | 2008       | 2019     |
 | GRA | Gradisca d'Is.              | syn | 45.889791 | 13.481807 | 29   | x        | 1991       | 2019     |
-| GRD | Grado                       | syn | 45.676400 | 13.394500 | 5    | x        | 1999       | 2019     |
+| GRD | Grado                       | syn | 45.676400 | 13.394500 | 5    | x        | 1999       | 2019     | Disemssa |
 | GRM | Grado-mare                  | syn | 45.671362 | 13.396556 | 0    | x        | 2006       | 2019     |
 | LAU | Lauzacco                    | syn | 45.982046 | 13.272538 | 60   | x        | 2008       | 2019     |
 | LIG | Lignano Sabbiadoro          | syn | 45.701909 | 13.147078 | 7    | x        | 1999       | 2019     |
