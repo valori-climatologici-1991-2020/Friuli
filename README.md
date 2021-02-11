@@ -8,7 +8,7 @@ I dati disponibili su HisCentral coprono il periodo 1912-2012. Questi dati coinc
 
 **I dati sopra descritti NON coincidono con i dati forniti da Meteo FVG (vedi sotto), anche per stazioni con lo stesso nome.**
 
-## Dati online
+## Dati online Meteo FVG
 
 Si tratta dei dati scaricabili da [Meteo FVG](https://www.meteo.fvg.it/archivio.php?ln=&p=dati) per il periodo 1991 a oggi. 
 [Qui la lista dei dati elaborati](./docs_dati_online/scaricati.md) e [qui la mappa delle stazioni](https://github.com/valori-climatologici-1991-2020/Friuli/blob/main/selenium/mappa_stazioni/friuli_ana.geojson).
