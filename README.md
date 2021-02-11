@@ -13,10 +13,6 @@ I dati disponibili su HisCentral coprono il periodo 1912-2012. Questi dati coinc
 Si tratta dei dati scaricabili da [Meteo FVG](https://www.meteo.fvg.it/archivio.php?ln=&p=dati) per il periodo 1991 a oggi. 
 [Qui la lista dei dati elaborati](./docs_dati_online/scaricati.md) e [qui la mappa delle stazioni](https://github.com/valori-climatologici-1991-2020/Friuli/blob/main/selenium/mappa_stazioni/friuli_ana.geojson).
 
-### Valori climatologici serie FVG
-
-I valori climatologici temporanei sono descritti [qui](./docs_dati_online/climatologici_fvg.md)
-
 ### Serie associate HisCentral (HC) e serie del Friuli Venezia Giulia (CF).
 
 CF sta per Centro Funzionale ma in realta' si tratta delle serie acquisite dal sito della Regione del Friuli Venezia Giulia.
