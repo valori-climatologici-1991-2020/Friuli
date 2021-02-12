@@ -9,7 +9,7 @@ Nota: i file contengono ogni tanto date duplicate e quindi vanno ripuliti.
 | ARI | Ariis                       | syn | 45.878300 | 13.090000 | 13   | x        | 2014       | 2019     |
 | BAR | Barcis                      | syn | 46.193202 | 12.571028 | 468  | x        | 2004       | 2019     |
 | BIC | Bicinicco                   | syn | 45.928808 | 13.240140 | 33   | x        | 2008       | 2019     |
-| BOA | Boa Paloma                  | syn | 45.618291 | 13.565022 | 5    | x        | 2002       | 2019     | Dati 2020 non disponibili, ma non dismessa  |  
+| BOA | Boa Paloma                  | syn | 45.618291 | 13.565022 | 5    | x        | 2002       | 2019     | Dati 2020 non disponibili, ma non dismessa. Su SCIA corrisponde alla serie ntt adriatic  |  
 | BOR | Bordano                     | syn | 46.332764 | 13.081196 | 230  | x        | 2004       | 2019     |
 | BGG | Borgo Grotta Gigante        | syn | 45.709385 | 13.764681 | 275  | x        | 2007       | 2019     |   
 | BRU | Brugnera                    | syn | 45.917972 | 12.545003 | 22   | x        | 1991       | 2019     |
